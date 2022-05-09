@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #0x00-hello_world
 
 Preprocessor
@@ -22,3 +23,9 @@ UNIX is basically a simple operating system, but you have to be a genius to unde
 Write a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
 
 # holbertonschool-low_level_programming
+=======
+# Raise_the_terrain
+
+# Raise_the_terrain
+# Raise_the_terrain
+>>>>>>> 6db18276ae0c0357c2f3b270135f954b414c7d76
