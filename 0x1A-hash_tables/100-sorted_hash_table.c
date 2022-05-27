@@ -1,6 +1,6 @@
 /*
  * File: 100-sorted_hash_table.c
- * Auth: Elizabeth Mashilo
+ * Auth: Zandile Tshabalala
  */
 
 #include "hash_tables.h"
