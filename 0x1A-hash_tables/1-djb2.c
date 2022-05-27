@@ -1,6 +1,6 @@
 /*
  * File: 1-djb2.c
- * Auth: Elizabeth Mashilo
+ * Auth: Zandile Tshabalala
  */
 
 #include "hash_tables.h"
